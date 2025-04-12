@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">
   <br>
-  <b>Level-3 Semester-II Algorithm Report</b>  
+  <b>Level-3 Semester-II Proposed Algorithm Report</b>  
 </h3>
 <h3 align="center">
   Course Code: CSE 361
