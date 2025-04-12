@@ -2,7 +2,7 @@
   <img src="HSTU.png" alt="HSTU Logo" width="250" height="300">
 </p>
 <h1 align="center">
-  <b> HSTU Online Academic Transcript Distribution System</b>
+  <b> PrimeX Cipher: Leveraging Prime Numbers for Text Encryption and Decryption</b>
 </h1>
 <h3 align="center">
   <br>
