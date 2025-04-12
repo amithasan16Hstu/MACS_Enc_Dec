@@ -32,3 +32,9 @@
 Dinajpur-5200</b></h3>
 
 ---
+## Abstract
+
+<p align="justify">
+The <strong>PrimeX Cipher</strong> is a custom-designed symmetric cryptographic algorithm that integrates modular arithmetic and block permutation to achieve secure and reversible text encryption. Developed with simplicity and clarity in mind, the cipher utilizes a user-defined prime number and permutation array as the encryption key. The process involves converting plaintext characters into numeric representations, applying a modular shift using the prime number, rearranging the sequence through permutation, and then performing modular multiplication for final encryption. Decryption reverses each step using the inverse permutation and the modular inverse of the prime number, ensuring accurate retrieval of the original plaintext. This algorithm highlights fundamental cryptographic principles such as substitution, permutation, and key-dependent transformation. <strong>PrimeX</strong> is ideal for educational purposes, demonstrating how mathematical operations can be applied to create a basic but effective encryption scheme. Its implementation fosters a deeper understanding of symmetric encryption, number theory, and algorithm design.
+</p>
+
