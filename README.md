@@ -182,19 +182,19 @@ Modular arithmetic forms the backbone of substitution and multiplication steps, 
 
 ### 4.2 Modular Inverse
 
-The modular inverse \(p^{-1}\) is essential for decrypting the modular multiplication step. It exists only if \(p\) and the modulus are coprime — guaranteed when \(p\) is prime and 26 shares no common factors with \(p\).
+The modular inverse `p⁻¹` is essential for decrypting the modular multiplication step. It exists only if `p` and the modulus are coprime — which is guaranteed when `p` is a prime number and shares no common factors with 26.
 
-The **Extended Euclidean Algorithm** efficiently computes \(p^{-1}\).
+The **Extended Euclidean Algorithm** efficiently computes `p⁻¹`.
+
+---
 
 ### 4.3 Permutations and Their Inverses
 
-The permutation array \(\pi\) is a bijection from \(\{0,\dots,n-1\}\) onto itself, ensuring each index is uniquely mapped.
+The permutation array `π` is a bijection from `{0, ..., n−1}` onto itself, ensuring each index in the block is uniquely mapped.
 
-The inverse permutation \(\pi^{-1}\) satisfies:  
-\[
-\pi^{-1}\bigl(\pi(i)\bigr) = i
-\]  
-allowing precise reversal of the position rearrangement.
+The inverse permutation `π⁻¹` satisfies:  
+`π⁻¹(π(i)) = i`  
+This allows for exact reversal of the rearranged positions during decryption.
 
 ---
 
@@ -202,10 +202,9 @@ allowing precise reversal of the position rearrangement.
 
 ### 5.1 Key Generation
 
-1. User inputs a prime number \(p\) such that \(\gcd(p,26) = 1\).  
-2. User defines or is provided a permutation array \(\pi\) of length \(n\).  
-3. Compute \(k = p \bmod 26\) for the modular shift.
-
+1. User inputs a prime number `p` such that `gcd(p, 26) = 1`.  
+2. User defines or is provided a permutation array `π` of length `n`.  
+3. Compute `k = p mod 26` to use in the modular shift during encryption.
 ### 5.2 Encryption Algorithm (Pseudocode)
 
 ```python
