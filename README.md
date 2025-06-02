@@ -159,6 +159,11 @@ Subtract the key `k` from each `s_i`, modulo 26, to recover the original numeric
 `x_i = (s_i - k) mod 26`  
 Finally, convert each `x_i` back to its corresponding alphabet letter to obtain the original plaintext.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amithasan16Hstu/MACS_Enc_Dec/main/Decreption_flowchart.png" alt="Decryption Flowchart" width="400">
+</p>
+
+<p align="center"><i>Figure 3.2: PrimeX Cipher – Decryption Flowchart</i></p>
 
 
 ---
