@@ -165,6 +165,12 @@ Finally, convert each `x_i` back to its corresponding alphabet letter to obtain 
 
 <p align="center"><i>Figure 3.2: PrimeX Cipher – Decryption Flowchart</i></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amithasan16Hstu/MACS_Enc_Dec/main/process.png" alt="Process Diagram" width="500">
+</p>
+<p align="center"><i>Figure 3.3 : Overview of the Encryption and Decryption Process</i></p>
+
+
 
 ---
 
