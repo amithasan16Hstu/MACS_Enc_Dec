@@ -326,6 +326,14 @@ These additions can extend PrimeX's teaching potential.
 
 ## References
 
-- Stallings, W. (2017). *Cryptography and Network Security: Principles and Practice*. Pearson.
-- Paar, C., & Pelzl, J. (2010). *Understanding Cryptography*. Springer.
-- Menezes, A., van Oorschot, P., & Vanstone, S. (1996). *Handbook of Applied Cryptography*. CRC Press.
+- Stallings, W. (2017). *Cryptography and Network Security: Principles and Practice*. Pearson.  
+  [View on Pearson](https://www.pearson.com/en-us/subject-catalog/p/cryptography-and-network-security-principles-and-practice/P200000007945/9780134444284)  
+  [Preview on Google Books](https://books.google.com/books?id=4VDNDgAAQBAJ)
+
+- Paar, C., & Pelzl, J. (2010). *Understanding Cryptography*. Springer.  
+  [View on Springer](https://link.springer.com/book/10.1007/978-3-642-04101-3)  
+  [PDF Preview (Springer)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04101-3.pdf)
+
+- Menezes, A., van Oorschot, P., & Vanstone, S. (1996). *Handbook of Applied Cryptography*. CRC Press.  
+  [View on CRC Press](https://www.routledge.com/Handbook-of-Applied-Cryptography/Menezes-van-Oorschot-Vanstone/p/book/9780849385230)  
+  [Free Full PDF (Official)](https://cacr.uwaterloo.ca/hac/about/chapters.html)
