@@ -306,7 +306,7 @@ PrimeX is best suited as an educational cipher.
 
 ---
 
-## 8. Educational Value and Applications
+## 8. Applications
 
 PrimeX is useful in academic settings for:
 
@@ -318,7 +318,7 @@ PrimeX is useful in academic settings for:
 
 Students can modify keys, permutations, and plaintexts to explore effects on ciphertext.
 
-### 🔐Table 9.1 PrimeX Cipher vs Other Algorithms: Key Differences
+### 🔐Table 8.1 PrimeX Cipher vs Other Algorithms: Key Differences
 
 | Feature                | **PrimeX Cipher**                                             | **Caesar Cipher**                        | **Vigenère Cipher**                      | **AES (Advanced Encryption Standard)**                |
 |------------------------|--------------------------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------------------|
