@@ -81,7 +81,7 @@ This paper presents the **PrimeX Cipher**, a custom-designed symmetric encryptio
 ---
 ## List of Tables
 
-[Table 8.1 PrimeX Cipher vs Other Algorithms](#-table-81-primex-cipher-vs-other-algorithms-key-differences)
+- [Table 8.1 PrimeX Cipher vs Other Algorithms](#-table-81-primex-cipher-vs-other-algorithms-key-differences)
 
 ---
 
