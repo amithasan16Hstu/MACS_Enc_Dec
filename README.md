@@ -89,6 +89,9 @@ The PrimeX Cipher is designed as a lightweight, symmetric encryption algorithm t
 
 This paper elaborates on the motivation behind PrimeX, its step-by-step encryption and decryption processes, the mathematical foundations it employs, and its relevance as an educational tool.
 
+[▶️ Watch PrimeX Cipher Overview (MP4)](https://github.com/amithasan16Hstu/MACS_Enc_Dec/blob/main/overview.MP4)
+
+
 ---
 
 ## 2. Background and Motivation
