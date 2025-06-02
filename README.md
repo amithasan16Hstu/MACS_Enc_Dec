@@ -72,6 +72,13 @@ This paper presents the **PrimeX Cipher**, a custom-designed symmetric encryptio
 - [References](#references)
 
 ---
+## List of Figures
+
+- [Figure 3.1: PrimeX Cipher – Encryption Flowchart](#fig-encryption)
+- [Figure 3.2: PrimeX Cipher – Decryption Flowchart](#fig-decryption)
+- [Figure 3.3: Overview of the Encryption and Decryption Process](#fig-overview)
+
+
 
 
 ## 1. Introduction
@@ -133,10 +140,10 @@ For each block of plaintext characters `(x₀, x₁, ..., xₙ₋₁)`:
 
 The ciphertext block is `(c₀, c₁, ..., cₙ₋₁)`.
 
+<a name="fig-encryption"></a>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amithasan16Hstu/MACS_Enc_Dec/main/encryption_flowchart.png" alt="Encryption Flowchart" width="400">
+  <img src="https://raw.githubusercontent.com/amithasan16Hstu/MACS_Enc_Dec/main/encryption_flowchart.png" width="400">
 </p>
-
 <p align="center"><i>Figure 3.1: PrimeX Cipher – Encryption Flowchart</i></p>
 
 
@@ -159,16 +166,18 @@ Subtract the key `k` from each `s_i`, modulo 26, to recover the original numeric
 `x_i = (s_i - k) mod 26`  
 Finally, convert each `x_i` back to its corresponding alphabet letter to obtain the original plaintext.
 
+<a name="fig-decryption"></a>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amithasan16Hstu/MACS_Enc_Dec/main/Decreption_flowchart.png" alt="Decryption Flowchart" width="400">
+  <img src="https://raw.githubusercontent.com/amithasan16Hstu/MACS_Enc_Dec/main/Decreption_flowchart.png" width="400">
 </p>
-
 <p align="center"><i>Figure 3.2: PrimeX Cipher – Decryption Flowchart</i></p>
 
+
+<a name="fig-overview"></a>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amithasan16Hstu/MACS_Enc_Dec/main/process.png" alt="Process Diagram" width="500">
+  <img src="https://raw.githubusercontent.com/amithasan16Hstu/MACS_Enc_Dec/main/process.png" width="500">
 </p>
-<p align="center"><i>Figure 3.3 : Overview of the Encryption and Decryption Process</i></p>
+<p align="center"><i>Figure 3.3: Overview of the Encryption and Decryption Process</i></p>
 
 
 
