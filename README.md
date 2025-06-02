@@ -318,6 +318,22 @@ PrimeX is useful in academic settings for:
 
 Students can modify keys, permutations, and plaintexts to explore effects on ciphertext.
 
+### 🔐Table 9.1 PrimeX Cipher vs Other Algorithms: Key Differences
+
+| Feature                | **PrimeX Cipher**                                             | **Caesar Cipher**                        | **Vigenère Cipher**                      | **AES (Advanced Encryption Standard)**                |
+|------------------------|--------------------------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------------------|
+| **Type**               | Custom, symmetric                                             | Classical, symmetric                      | Classical, polyalphabetic                 | Modern, symmetric block cipher                        |
+| **Key Structure**      | Prime number + permutation array                              | Single shift value (integer)              | Keyword (string)                          | 128/192/256-bit key                                   |
+| **Substitution Logic** | Modular addition with prime-derived key                       | Simple letter shift                       | Letter shift based on keyword             | Complex S-box substitution                            |
+| **Permutation**        | Yes (user-defined permutation array)                          | ❌                                         | ❌                                         | Implicit permutation in rounds                        |
+| **Modular Arithmetic** | Core concept: addition & multiplication mod 26                | Addition mod 26                           | Addition mod 26                           | Finite field (GF(2^8)) operations                     |
+| **Decryption Needs**   | Modular inverse and inverse permutation                       | Reverse shift                             | Reverse shift by keyword                  | Reverse rounds using inverse functions                |
+| **Educational Purpose**| Designed for learning encryption principles                   | Historical interest only                  | Historical, basic cryptography            | Industrial-grade, real-world application              |
+| **Security Strength**  | Moderate (for educational use)                                | Very weak                                 | Weak (easy to break)                      | Strong (globally accepted standard)                   |
+| **Block-Based?**       | Yes (works on character blocks)                               | No                                        | No                                        | Yes (128-bit blocks)                                  |
+| **Customizability**    | High (custom key = prime + permutation)                       | Low                                       | Medium                                    | Low (standardized and fixed configuration)            |
+
+
 ---
 
 ## 9. Conclusion
