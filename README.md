@@ -78,6 +78,12 @@ This paper presents the **PrimeX Cipher**, a custom-designed symmetric encryptio
 - [Figure 3.2: PrimeX Cipher – Decryption Flowchart](#fig-decryption)
 - [Figure 3.3: Overview of the Encryption and Decryption Process](#fig-overview)
 
+---
+## List of Tables
+
+[Table 8.1 PrimeX Cipher vs Other Algorithms](#-table-81-primex-cipher-vs-other-algorithms-key-differences)
+
+---
 
 
 
