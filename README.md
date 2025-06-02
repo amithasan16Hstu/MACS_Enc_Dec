@@ -133,6 +133,11 @@ For each block of plaintext characters `(x₀, x₁, ..., xₙ₋₁)`:
 
 The ciphertext block is `(c₀, c₁, ..., cₙ₋₁)`.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amithasan16Hstu/MACS_Enc_Dec/main/flowcharts/encryption_flowchart.png" alt="PrimeX Encryption Flowchart" width="400">
+</p>
+
+<p align="center"><i>Figure: Encryption Process Flowchart of the PrimeX Cipher</i></p>
 
 ### 3.4 Decryption Process
 
