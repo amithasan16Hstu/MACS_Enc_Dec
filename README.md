@@ -33,7 +33,7 @@
 Dinajpur-5200</b></h3>
 
 ---
-# The PrimeX Cipher: A Modular Arithmetic and Permutation-Based Symmetric Encryption Algorithm for Educational Use
+
 
 ## Abstract
 
