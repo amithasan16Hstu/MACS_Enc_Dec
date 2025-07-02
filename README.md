@@ -85,7 +85,7 @@ This paper presents the **PrimeX Cipher**, a custom-designed symmetric encryptio
 
 ---
 ## Videos
-- https://github.com/user-attachments/assets/a01d718b-342c-4f73-9695-caf5462863b7
+- [▶ Watch the video](https://github.com/user-attachments/assets/a01d718b-342c-4f73-9695-caf5462863b7)
 
 
 
