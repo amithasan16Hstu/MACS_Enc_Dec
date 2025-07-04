@@ -95,7 +95,7 @@ In today’s digital world, securing information has become a paramount concern.
 
 The PrimeX Cipher is designed as a lightweight, symmetric encryption algorithm that clearly illustrates the interplay of substitution, permutation, and modular arithmetic — essential building blocks of many cryptographic systems. By combining these mathematical operations in a simple yet effective manner, PrimeX enables learners to explore how plaintext can be transformed securely into ciphertext and reliably reverted, using keys based on prime numbers and permutations.
 
-This paper elaborates on the motivation behind PrimeX, its step-by-step encryption and decryption processes, the mathematical foundations it employs, and its relevance as an educational tool.
+This study elaborates on the motivation behind PrimeX, its step-by-step encryption and decryption processes, the mathematical foundations it employs, and its relevance as an educational tool.
 
 [https://github.com/user-attachments/assets/3bff6564-0f8f-4471-a97d-f36a084e91c1](https://github.com/user-attachments/assets/a01d718b-342c-4f73-9695-caf5462863b7)
 ## Video 1.1 Algorithm Overview
